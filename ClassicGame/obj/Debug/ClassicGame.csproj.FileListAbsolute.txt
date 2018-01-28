@@ -16,3 +16,6 @@ D:\hari\c#\ClassicGame\ClassicGame\obj\Debug\ClassicGame.csprojResolveAssemblyRe
 D:\hari\c#\ClassicGame\ClassicGame\obj\Debug\ClassicGame.Form1.resources
 D:\hari\c#\ClassicGame\ClassicGame\obj\Debug\ClassicGame.Properties.Resources.resources
 D:\hari\c#\ClassicGame\ClassicGame\obj\Debug\ClassicGame.csproj.GenerateResource.Cache
+D:\design\git\mapapi\ClassicGame\ClassicGame\bin\Debug\ClassicGame.exe.config
+D:\design\git\mapapi\ClassicGame\ClassicGame\obj\Debug\ClassicGame.exe
+D:\design\git\mapapi\ClassicGame\ClassicGame\obj\Debug\ClassicGame.pdb
